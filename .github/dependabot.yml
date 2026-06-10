@@ -14,7 +14,7 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "12:00"
+      time: "12:15"
       timezone: "Asia/Ho_Chi_Minh"
 
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 20
